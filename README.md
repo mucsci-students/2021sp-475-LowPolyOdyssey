@@ -18,9 +18,11 @@
 
 ## Developers
 
-- @mmoyer1
-- @camwhis1
-- @sfmalloy
+@mmoyer1
+
+@camwhis1
+
+@sfmalloy
 
 ## Outside Assets
 
