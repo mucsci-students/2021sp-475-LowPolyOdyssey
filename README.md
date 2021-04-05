@@ -18,11 +18,11 @@
 
 ## Developers
 
-@mmoyer1
+[mmoyer1](https://github.com/mmoyer1)
 
-@camwhis1
+[camwhis1](https://github.com/camwhis1)
 
-@sfmalloy
+[sfmalloy](https://github.com/sfmalloy)
 
 ## Outside Assets
 
